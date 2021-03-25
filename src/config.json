@@ -1,0 +1,37 @@
+//{
+// "baseUrl": "http://localhost:8099/BusinessService/",
+// "sso": {
+//   "url": "http://10.38.21.60/sso",
+//   "clientId": "WEB-EOFFICE-LOCALHOST",
+//   "clientPass": "123456789"
+// },
+// "version": {
+//   "ios": 2020111800,
+//   "android": 2020111800
+// }
+//}
+// {
+//   "baseUrl": "http://10.38.21.60/BusinessService/",
+//   "sso": {
+//     "url": "http://10.38.21.60/sso",
+//     "clientId": "WEB-EOFFICE-PROD",
+//     "clientPass": "123456789"
+//   },
+//   "version": {
+//     "ios": 2020111800,
+//     "android": 2020111800
+//   }
+// }
+ {
+   "baseUrl": "https://eoffice.mobifone.vn/BusinessService/",
+   "sso": {
+     "url": "https://eoffice.mobifone.vn/sso",
+     "clientId": "WEB-EOFFICE-PRODUCTION",
+     "clientPass": "gZnlUWbOK0bTGAnsXNrpXanHzyUK6i1j"
+   },
+   "version": {
+     "ios": 2020120100,
+     "android": 2020120100
+   }
+ }
+
